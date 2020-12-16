@@ -1,0 +1,1 @@
+Professores, não tive como adicionar estes arquivos pelo gitpod pois não encontrei tal opção, tentei seguir ao máximo o modo de como fazer a atividade, pelo menos da Thread, mas a única forma de utilizar o gitpod que achei era ja utilizando um template pré-estabelecido, resumindo os dois únicos arquivos que alterei foram estes, os quais também fiz o upload manual
